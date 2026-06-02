@@ -1,5 +1,5 @@
 
-# 🚦 AI-Powered Road Safety Violation Detection System
+# AI-Powered Road Safety Violation Detection System
 
 ## Overview
 
@@ -184,5 +184,5 @@ An **Annexure II – Invention Disclosure Form (IDF)** has been submitted for th
 
 ## Impact
 
-The project demonstrates the practical application of Artificial Intelligence, Computer Vision, and IoT in enhancing road safety. By automating violation detection and record management, it contributes toward smarter, safer, and more efficient campus traffic monitoring systems. 🚦🤖
+The project demonstrates the practical application of Artificial Intelligence, Computer Vision, and IoT in enhancing road safety. By automating violation detection and record management, it contributes toward smarter, safer, and more efficient campus traffic monitoring systems. 
 
