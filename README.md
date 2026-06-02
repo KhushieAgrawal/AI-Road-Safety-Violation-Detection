@@ -95,7 +95,7 @@ Vehicle Detection
         ↓
 Vehicle Classification
         ↓
- ┌──────────────┬──────────────┐
+ ┌──────────────┬
  ↓              ↓
 Two-Wheeler   Four-Wheeler
  ↓              ↓
@@ -104,8 +104,6 @@ Helmet Check  Seatbelt Check
 Violation Detected
         ↓
 License Plate Detection
-        ↓
-EasyOCR
         ↓
 Google Sheets Logging
 ```
